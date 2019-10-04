@@ -4,7 +4,7 @@
 * [Game](game.md)
     * [Mainline](mainline.md)
         * Tutorial
-    * Labyrinths
+    * [Labyrinths](labyrinths.md)
         * Entry
 * [Extension](extension.md)
 * Mod
