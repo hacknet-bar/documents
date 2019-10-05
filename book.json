@@ -23,9 +23,9 @@
         "paperSize": "a4"
     },
     "plugins": [
-        "-lunr"
-        "-search"
-        "search-plus"
+        "-lunr",
+        "-search",
+        "search-plus",
         "multipart"
     ],
     "variables": {}
