@@ -1,4 +1,4 @@
-\(Written By Pitiedwzr,Err0r233\)
+**\(Written By Pitiedwzr,Err0r233\)**
 
 欢迎加入制作扩展的队伍中！首先，在阅读本指南之前，请将Hacknet与迷宫DLC通关一遍，并且有一定的英文基础（工地英语也行，谷歌翻译）。
 
@@ -9,19 +9,33 @@
 ![](/resources/pic-extension/image1.png)
 
 * Actions：触发
+
 * Docs：文档（新闻，论坛等）
+
 * Factions：等于Actions
+
 * HackerScripts：黑客脚本（naix那种）
+
 * Missions：任务
+
 * Music：音乐
+
 * Nodes：节点
+
 * People：人口 用于AcademicDatabase 通用医疗
+
 * Theme：主题
+
 * Web：网页
+
 * ExtensionInfo：扩展信息
+
 * Intro：开始时的文字
+
 * Logo：扩展标志
+
 * WorkshopLogo：创意工坊相关，放到以后再讲
+
 
 了解了这些之后，我们就可以开始制作扩展了。对于新人来说，我推荐使用官方提供的模板BlankExtension（你要是足够强 也可以自己写）找到blank（steamapps\/common\/Hacknet\/Extension）复制一份模板，并将文件名改成自己的扩展名。打开模板，把EDIT\_ME\_ExtensionInfo改为ExtensionInfo。打开它，会有这些东西：
 

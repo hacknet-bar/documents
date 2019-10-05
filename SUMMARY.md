@@ -7,5 +7,7 @@
     * [Labyrinths](labyrinths.md)
         * Entry
 * [Extension](extension.md)
+    * [IntroStartup&HackerScripts](introstartuphackerscripts.md)
+    * [Web&People](webpeople.md)
 * Mod
 
