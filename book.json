@@ -1,100 +1,40 @@
 {
-    "generator": "site",
-    "links": {
-“sharing”: {
-
-    “douban”: false,
-
-    “facebook”: false,
-
-    “google”: false,
-
-    “hatenaBookmark”: false,
-
-    “instapaper”: false,
-
-    “line”: false,
-
-    “linkedin”: false,
-
-    “messenger”: false,
-
-    “pocket”: false,
-
-    “qq”: true,
-
-    “qzone”: false,
-
-    “stumbleupon”: false,
-
-    “twitter”: false,
-
-    “viber”: false,
-
-    “vk”: false,
-
-    “weibo”: true,
-
-    “whatsapp”: false,
-
-    “all”: [
-
-      “douban”,
-
-      “facebook”,
-
-      “google”,
-
-      “instapaper”,
-
-      “line”,
-
-      “linkedin”,
-
-      “messenger”,
-
-      “pocket”,
-
-      “qq”,
-
-      “qzone”,
-
-      “stumbleupon”,
-
-      “twitter”,
-
-      “viber”,
-
-      “vk”,
-
-      “weibo”,
-
-      “whatsapp” 
-
-    ]
-
-  }
-        "sidebar": {}
-    },
-    "output": null,
-    "pdf": {
-        "fontSize": 12,
-        "margin": {
-            "bottom": 36,
-            "left": 62,
-            "right": 62,
-            "top": 36
-        },
-        "pageNumbers": false,
-        "paperSize": "a4"
-    },
-    "plugins": [
-        "-lunr",
-        "-search",
-        "-sharing",
-        "search-plus",
-        "sharing-plus",
-        "multipart"
-    ],
-    "variables": {}
+	"generator": "site",
+	"links": {
+		"sharing": {
+			"douban": false,
+			"facebook": false,
+			"google": false,
+			"hatenaBookmark": false,
+			"instapaper": false,
+			"line": false,
+			"linkedin": false,
+			"messenger": false,
+			"pocket": false,
+			"qq": true,
+			"qzone": false,
+			"stumbleupon": false,
+			"twitter": false,
+			"viber": false,
+			"vk": false,
+			"weibo": true,
+			"whatsapp": false,
+			"all": ["douban", "facebook", "google", "instapaper", "line", "linkedin", "messenger", "pocket", "qq", "qzone", "stumbleupon", "twitter", "viber", "vk", "weibo", "whatsapp"]
+		},
+		"sidebar": {}
+	},
+	"output": null,
+	"pdf": {
+		"fontSize": 12,
+		"margin": {
+			"bottom": 36,
+			"left": 62,
+			"right": 62,
+			"top": 36
+		},
+		"pageNumbers": false,
+		"paperSize": "a4"
+	},
+	"plugins": ["-lunr", "-search", "-sharing", "search-plus", "sharing-plus", "multipart"],
+	"variables": {}
 }
