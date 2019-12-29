@@ -1,2 +1,4 @@
-简介懒得写2333
+# Introduction
+
+Welcome to Hacknet Bar Document!
 
