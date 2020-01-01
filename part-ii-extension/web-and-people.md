@@ -27,7 +27,7 @@ People，也就是人口，在Hacknet中虚构的人口。
 1. 在ExtensionsInfo同目录文件夹下创建People文件夹（若已经有，可以省略这一步）
 2. 从IntroExtension复制模板（ExamplePeople.xml）然后打开
 
-_题外话：我的导师Forever_天蓝说过 IntroExtension是一本百科全书\_
+_题外话：我的导师Forever天蓝说过 IntroExtension是一本百科全书_
 
 _有什么事都可以去查阅它，所以我希望大家能够善用IntroExtension_ 
 
