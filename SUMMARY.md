@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Initial page](README.md)
 
 ## Part I - Game
 
